@@ -16,7 +16,6 @@ You still have to manually complete the captcha (only for first time you run the
 
 # Note
 Use RDP to get tons of views or fans (run 24/7)
-If you are using Chrome ver 84, you don't need to download chromedriver again (won't cause error). But, if you are not using Chrome ver 87, then download the right version like your Chrome version. Download here
 If you encounter 502 error, please don't make a new issues.
 
 # donasi
